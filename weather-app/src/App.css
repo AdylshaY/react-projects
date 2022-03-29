@@ -1,0 +1,47 @@
+* {
+    background-color: rgb(31, 29, 54);
+    color: rgb(233, 166, 166);
+    font-family: 'Fredoka', sans-serif;
+}
+
+.color-hr {
+    border: 1px solid rgb(134, 72, 121);;
+    display: block;
+    width: 80%;
+}
+
+.temp {
+    font-size: 100px;
+}
+
+.description {
+    font-size: 20px;
+}
+
+.center {
+    padding: 15px;
+    font-size: 35px;
+    text-align: center;
+    border: 1px solid rgb(134, 72, 121);
+    border-radius: 15px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    width: 80%;
+}
+
+.input {
+    padding: 15px;
+    width: 80%;
+    margin: 15px;
+    border: 1px solid rgb(134, 72, 121);
+    border-radius: 15px;
+    font-size: 24px;
+}
+
+.input:focus {
+    outline: none;
+    background-color: rgb(63, 51, 81);
+    transition: 1s;
+}
