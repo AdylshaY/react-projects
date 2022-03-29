@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "name": "The Matrix 3",
+      "rating": "8.1",
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "id": 1
+    },
+    {
+      "name": "The Matrix Reloaded",
+      "rating": "6.9",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBegA6V243J6HUnpcOILsRvBnGb.jpg",
+      "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance. Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition.",
+      "id": 2
+    },
+    {
+      "name": "Blitz 007",
+      "rating": "7.0",
+      "overview": "A tough, renegade cop with a gay sidekick is dispatched to take down a serial killer who has been targeting police officers.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCPMjT8Ld8tvs1zs7LY2jpKlRIK.jpg",
+      "id": 3
+    },
+    {
+      "name": "Spider-Man: No Way Home",
+      "rating": "7.1",
+      "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "id": 4
+    },
+    {
+      "name": "Fistful of Vengeance",
+      "rating": "6.8",
+      "overview": "A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v1J5n8LtNBJMHVJuo318v9MsK9E.jpg",
+      "id": 5
+    },
+    {
+      "name": "The Batman",
+      "rating": "10.0",
+      "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.\n\n",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "id": 6
+    }
+  ]
+}
